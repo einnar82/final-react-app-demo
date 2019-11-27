@@ -3,7 +3,8 @@
 To deploy at heroku
 
 In your terminal type
-\$ heroku login
+
+    $ heroku login
 
 After a successful login
 
